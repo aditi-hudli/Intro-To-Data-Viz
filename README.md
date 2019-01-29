@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+## Intro To Data Visualization
 
-You can use the [editor on GitHub](https://github.com/aditi-hudli/Intro-To-Data-Viz/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is a complilation of the all the assignments done by Aditi Hudli (aah2183) for COMS W4995.06 for the Spring 2019.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Assignment 0
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aditi-hudli/Intro-To-Data-Viz/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Prompt: Your goal is to build a creative interpretation of the clock, focused on aesthetics and inventiveness, and make it accessible via a url. Your interpretation needs to be legible enough that your reader can visually distinguish which is the hour, the minute, vs. the second; otherwise your reader should be able to guess the time within a quarter-hour of accuracy. When choosing your design, consider the different states of the clock at different moments in time, e.g. when values are near max or min.
