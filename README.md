@@ -7,4 +7,4 @@ This is a complilation of the all the assignments done by Aditi Hudli (aah2183) 
 
 **Prompt:** Your goal is to build a creative interpretation of the clock, focused on aesthetics and inventiveness, and make it accessible via a url. Your interpretation needs to be legible enough that your reader can visually distinguish which is the hour, the minute, vs. the second; otherwise your reader should be able to guess the time within a quarter-hour of accuracy. When choosing your design, consider the different states of the clock at different moments in time, e.g. when values are near max or min. [P5.js]
 
-**Solution:** Abstract Clock https://github.com/aditi-hudli/dataviz/blob/master/assignments/Week%202/clockthree.html 
+**Solution:** [Abstract Clock](https://github.com/aditi-hudli/dataviz/blob/master/assignments/Week%202/clockthree.html) 
